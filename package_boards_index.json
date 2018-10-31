@@ -38,6 +38,31 @@
               "version": "1.0.0"
             }
           ]
+        },
+        {
+          "name": "Seeed STM32F4 Boards",
+          "architecture": "Seeed_STM32F4_RPi",
+          "version": "1.2.3",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/Seeed-Studio/stm32f4ArduinoCore"
+          },
+          "url": "https://raw.githubusercontent.com/rbeiter/arduino-boards-sandbox/master/Seeed_STM32F4_v1.2.3.tar.bz2",
+          "archiveFileName": "Seeed_STM32F4_v1.2.3.tar.bz2",
+          "checksum": "SHA-256:96f812892a55b2ea58d19ac49e8d531ef09e00e7d446fcef86c21cd48fb28be2",
+          "size": "253256",
+          "boards": [
+            {
+              "name": "Wio LTE"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "Seeeduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            }
+          ]
         }
       ],
       "tools": [
