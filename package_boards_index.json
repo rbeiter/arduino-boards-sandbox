@@ -31,11 +31,6 @@
               "packager": "Seeeduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
-            },
-            {
-              "packager": "Seeeduino",
-              "name": "stm32_dfu_upload_tool",
-              "version": "1.0.0"
             }
           ]
         },
